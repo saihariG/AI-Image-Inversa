@@ -1,0 +1,2 @@
+1.create a folder 'images'
+2.Put all images from dataset/train to 'static/images'

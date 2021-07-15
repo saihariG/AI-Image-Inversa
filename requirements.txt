@@ -1,0 +1,7 @@
+scipy
+Flask
+numpy
+pickle
+tqdm
+matplotlib
+scipy

@@ -1,0 +1,1 @@
+put the test and train folders from the cifar dataset in this folder
