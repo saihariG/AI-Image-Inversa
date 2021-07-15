@@ -37,7 +37,7 @@ pip install -r requirements.txt
     2. Put all images from `dataset/train` to `static/images`
     
   
-5. Run throuh [image-search project.ipynb](https://github.com/saihariG/AI-Image/blob/master/image-search-engine.ipynb) and generate all necessary files
+5. Run throuh [image-search project.ipynb](https://github.com/saihariG/AI-Image-Inversa/blob/master/image-search-engine.ipynb) and generate all necessary files
 
 6. Start the app.py file using the following command
 
