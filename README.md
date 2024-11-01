@@ -2,8 +2,6 @@
 
 This is an end-to-end implementation of image search engine. The image search engines allow us to retrive similar images based on the query one
 
-NOTE : This project is built based on this [course](https://www.udemy.com/course/practical-deep-learning-image-search-engine)
-
 ### Demo
 
 ![Image Inversa Demo](https://user-images.githubusercontent.com/52252342/125833288-f2c9b93c-a815-4dda-9a16-8838ddb1c9a8.gif)
